@@ -7,4 +7,3 @@ Katherine M. D’Amico-Willman1, Chad E. Niederhuth2, Michael Sovic3, Elizabeth 
 4Department of Horticulture and Crop Science, Ohio Agricultural Research and Development Center, The Ohio State University, Wooster, OH 44691
 5Department of Plant Sciences, University of California, Davis, CA 95616
 *For correspondence (fresnedoramirez.1@osu.edu; 330-263-3822)
-![image](https://github.com/kmdamico/AgeCohortAnalysis/assets/45393600/69e583dc-f308-40cb-a376-4c1727833ca7)
